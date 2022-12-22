@@ -2,6 +2,16 @@
   "color": {
     "secondary": {
       "green": {
+        "green-500": {
+          "value": "#18c176ff",
+          "type": "color",
+          "comment": "Light"
+        },
+        "green-600": {
+          "value": "#159f65ff",
+          "type": "color",
+          "comment": "Dark"
+        },
         "green-900": {
           "value": "#09482dff",
           "type": "color"
@@ -13,16 +23,6 @@
         "green-700": {
           "value": "#128756ff",
           "type": "color"
-        },
-        "green-600": {
-          "value": "#159f65ff",
-          "type": "color",
-          "comment": "Dark"
-        },
-        "green-500": {
-          "value": "#18c176ff",
-          "type": "color",
-          "comment": "Light"
         },
         "green-400": {
           "value": "#69d7a6ff",
@@ -46,6 +46,20 @@
         }
       },
       "teal": {
+        "teal-300": {
+          "value": "#a5eaedff",
+          "type": "color"
+        },
+        "teal-500": {
+          "value": "#37d0d6ff",
+          "type": "color",
+          "comment": "Light"
+        },
+        "teal-600": {
+          "value": "#1e9094ff",
+          "type": "color",
+          "comment": "Dark"
+        },
         "teal-900": {
           "value": "#0e4143ff",
           "type": "color"
@@ -58,22 +72,8 @@
           "value": "#1a7a7eff",
           "type": "color"
         },
-        "teal-600": {
-          "value": "#1e9094ff",
-          "type": "color",
-          "comment": "Dark"
-        },
-        "teal-500": {
-          "value": "#37d0d6ff",
-          "type": "color",
-          "comment": "Light"
-        },
         "teal-400": {
           "value": "#7de0e4ff",
-          "type": "color"
-        },
-        "teal-300": {
-          "value": "#a5eaedff",
           "type": "color"
         },
         "teal-200": {
@@ -90,6 +90,25 @@
         }
       },
       "blue": {
+        "blue-300": {
+          "value": "#a3d3ffff",
+          "type": "color"
+        },
+        "blue-600": {
+          "value": "#005cffff",
+          "type": "color",
+          "comment": "Medium"
+        },
+        "blue-700": {
+          "value": "#1c3bd4ff",
+          "type": "color",
+          "comment": "Dark"
+        },
+        "blue-500": {
+          "value": "#329dffff",
+          "type": "color",
+          "comment": "Light"
+        },
         "blue-900": {
           "value": "#12268aff",
           "type": "color"
@@ -98,27 +117,8 @@
           "value": "#1832b4ff",
           "type": "color"
         },
-        "blue-700": {
-          "value": "#1c3bd4ff",
-          "type": "color",
-          "comment": "Dark"
-        },
-        "blue-600": {
-          "value": "#005cffff",
-          "type": "color",
-          "comment": "Medium"
-        },
-        "blue-500": {
-          "value": "#329dffff",
-          "type": "color",
-          "comment": "Light"
-        },
         "blue-400": {
           "value": "#7abfffff",
-          "type": "color"
-        },
-        "blue-300": {
-          "value": "#a3d3ffff",
           "type": "color"
         },
         "blue-200": {
@@ -135,6 +135,16 @@
         }
       },
       "red": {
+        "red-500": {
+          "value": "#f34747ff",
+          "type": "color",
+          "comment": "Light"
+        },
+        "red-600": {
+          "value": "#d8273aff",
+          "type": "color",
+          "comment": "Dark"
+        },
         "red-900": {
           "value": "#61121aff",
           "type": "color"
@@ -146,16 +156,6 @@
         "red-700": {
           "value": "#b82131ff",
           "type": "color"
-        },
-        "red-600": {
-          "value": "#d8273aff",
-          "type": "color",
-          "comment": "Dark"
-        },
-        "red-500": {
-          "value": "#f34747ff",
-          "type": "color",
-          "comment": "Light"
         },
         "red-400": {
           "value": "#f78787ff",
@@ -179,6 +179,16 @@
         }
       },
       "orange": {
+        "orange-500": {
+          "value": "#ff931fff",
+          "type": "color",
+          "comment": "Light"
+        },
+        "orange-600": {
+          "value": "#ed6325ff",
+          "type": "color",
+          "comment": "Dark"
+        },
         "orange-900": {
           "value": "#6b2d11ff",
           "type": "color"
@@ -190,16 +200,6 @@
         "orange-700": {
           "value": "#c9541fff",
           "type": "color"
-        },
-        "orange-600": {
-          "value": "#ed6325ff",
-          "type": "color",
-          "comment": "Dark"
-        },
-        "orange-500": {
-          "value": "#ff931fff",
-          "type": "color",
-          "comment": "Light"
         },
         "orange-400": {
           "value": "#ffb96dff",
@@ -223,6 +223,16 @@
         }
       },
       "yellow": {
+        "yellow-500": {
+          "value": "#f5c918ff",
+          "type": "color",
+          "comment": "Light"
+        },
+        "yellow-600": {
+          "value": "#e8ad11ff",
+          "type": "color",
+          "comment": "Dark"
+        },
         "yellow-900": {
           "value": "#684e08ff",
           "type": "color"
@@ -234,16 +244,6 @@
         "yellow-700": {
           "value": "#c5930eff",
           "type": "color"
-        },
-        "yellow-600": {
-          "value": "#e8ad11ff",
-          "type": "color",
-          "comment": "Dark"
-        },
-        "yellow-500": {
-          "value": "#f5c918ff",
-          "type": "color",
-          "comment": "Light"
         },
         "yellow-400": {
           "value": "#f8dc69ff",
@@ -267,6 +267,16 @@
         }
       },
       "aqua": {
+        "aqua-500": {
+          "value": "#2cb3ffff",
+          "type": "color",
+          "comment": "Light"
+        },
+        "aqua-600": {
+          "value": "#1b9ce6ff",
+          "type": "color",
+          "comment": "Dark"
+        },
         "aqua-900": {
           "value": "#0c4668ff",
           "type": "color"
@@ -278,16 +288,6 @@
         "aqua-700": {
           "value": "#1785c3ff",
           "type": "color"
-        },
-        "aqua-600": {
-          "value": "#1b9ce6ff",
-          "type": "color",
-          "comment": "Dark"
-        },
-        "aqua-500": {
-          "value": "#2cb3ffff",
-          "type": "color",
-          "comment": "Light"
         },
         "aqua-400": {
           "value": "#76ceffff",
@@ -311,6 +311,16 @@
         }
       },
       "pink": {
+        "pink-500": {
+          "value": "#f72c84ff",
+          "type": "color",
+          "comment": "Light"
+        },
+        "pink-600": {
+          "value": "#df1a6fff",
+          "type": "color",
+          "comment": "Dark"
+        },
         "pink-900": {
           "value": "#640c32ff",
           "type": "color"
@@ -322,16 +332,6 @@
         "pink-700": {
           "value": "#be165eff",
           "type": "color"
-        },
-        "pink-600": {
-          "value": "#df1a6fff",
-          "type": "color",
-          "comment": "Dark"
-        },
-        "pink-500": {
-          "value": "#f72c84ff",
-          "type": "color",
-          "comment": "Light"
         },
         "pink-400": {
           "value": "#fa76afff",
@@ -356,6 +356,20 @@
       }
     },
     "primary": {
+      "purple-600": {
+        "value": "#7a12d4ff",
+        "type": "color",
+        "comment": "Brand Purple"
+      },
+      "purple-200": {
+        "value": "#eed8feff",
+        "type": "color"
+      },
+      "purple-500": {
+        "value": "#ba62fdff",
+        "type": "color",
+        "comment": "Light Purple"
+      },
       "purple-900": {
         "value": "#37085fff",
         "type": "color",
@@ -369,26 +383,12 @@
         "value": "#680fb4ff",
         "type": "color"
       },
-      "purple-600": {
-        "value": "#7a12d4ff",
-        "type": "color",
-        "comment": "Brand Purple"
-      },
-      "purple-500": {
-        "value": "#ba62fdff",
-        "type": "color",
-        "comment": "Light Purple"
-      },
       "purple-400": {
         "value": "#d299feff",
         "type": "color"
       },
       "purple-300": {
         "value": "#e0b8feff",
-        "type": "color"
-      },
-      "purple-200": {
-        "value": "#eed8feff",
         "type": "color"
       },
       "purple-100": {
